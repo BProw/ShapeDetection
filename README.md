@@ -10,7 +10,20 @@ Matplotlib: 3.3.1
 **Execute**  
 `python3 final.py`  
 
-!["Shapes"](/images/shapes.jpg)  
+**Single shape is selected (colored-in), others are filtered out, shape is cleaned up & re-colored**
+
+![Shapes](output_imgs/original.png)  
+
+![Contours](output_imgs/contours_found.png)  
+
+![Highlight single](output_imgs/polygon.png)  
+
+![Filter others](output_imgs/polygon_noisy.png)  
+
+![Filter noise](output_imgs/polygon_filtered.png)  
+
+![Re-color shape](output_imgs/polygon_colored.png)  
+
 
 ## References: 
 
