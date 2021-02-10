@@ -10,7 +10,7 @@ Matplotlib: 3.3.1
 **Execute**  
 `python3 final.py`  
 
-
+! [Original image] (images/shapes.jpg)  
 
 ## References: 
 
