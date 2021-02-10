@@ -1,4 +1,5 @@
-# Basic Shape Detection  
+# Selecting a single shape from an image of 11 shapes.  
+### Contouring & filtering techniques applied. "Shape guessing" game ultimately intended.
 
 **Final project CS-3150, Image Processing & Computer Vision, Fall 2020, Dr. Feng Jiang**    
 
