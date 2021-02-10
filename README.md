@@ -7,19 +7,22 @@ OpenCV: 4.4.0
 Numpy:  1.19.2  
 Matplotlib: 3.3.1   
 
-* **Single shape is selected (color filled) from contours of all in image.**  
-* **Other shapes are filtered out of image, "noise is removed", and shape is color-filled again.**  
-
+* **Original image with 11 shapes.**  
 ![Shapes](output_imgs/original.png)  
 
+* **Contours found of shapes in image.**  
 ![Contours](output_imgs/contours_found.png)  
 
+* **Select random shape contour and color fill.**  
 ![Highlight single](output_imgs/polygon.png)  
 
+* **Filter/remove other 10 shapes (img now in grayscale).**  
 ![Filter others](output_imgs/polygon_noisy.png)  
 
+* **Remove excess shape contours/noise.**  
 ![Filter noise](output_imgs/polygon_filtered.png)  
 
+* **Re-colorize single shape from others.**  
 ![Re-color shape](output_imgs/polygon_colored.png)  
 
 
