@@ -7,10 +7,8 @@ OpenCV: 4.4.0
 Numpy:  1.19.2  
 Matplotlib: 3.3.1   
 
-**Execute**  
-`python3 final.py`  
-
-**Single shape is selected (colored-in), others are filtered out, shape is cleaned up & re-colored**
+* **Single shape is selected (color filled) from contours of all in image.**  
+* **Other shapes are filtered out of image, "noise is removed", and shape is color-filled again.**  
 
 ![Shapes](output_imgs/original.png)  
 
